@@ -3,7 +3,7 @@ package rethinkdb
 import (
 	"reflect"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 
 	"gopkg.in/rethinkdb/rethinkdb-go.v5/encoding"
 	"io/ioutil"
